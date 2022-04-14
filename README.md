@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -22,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Repo](https://github.com/je-jo/qr-code-component)
-- [Live Site](je-jo.github.io/qr-code-component/)
+- [Live Site](https://je-jo.github.io/qr-code-component/)
 
 ## My process
 
